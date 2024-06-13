@@ -1,0 +1,12 @@
+asgiref==3.7.2
+Django==4.2.7
+Pillow==10.1.0
+sqlparse==0.4.4
+git+https://github.com/python-social-auth/social-app-django.git@20fabcd7bd9a8a41910bc5c8ed1bd6ef2263b328
+git+https://github.com/django-extensions/django-extensions.git@25a41d8a3ecb24c009c5f4cac6010a091a3c91c8
+werkzeug==3.0.1
+pyOpenSSL==22.0.0
+requests==2.31.0
+easy-thumbnails==2.8.5
+django-debug-toolbar==4.2.0
+redis==5.0.1
